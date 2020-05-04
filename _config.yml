@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boyun Zou"
+title                    : "Guru Zar  "
 title_separator          : "-"
-name                     : "Boyun Zou"
+name                     : "Guru Zar  "
 description              : "Business Analyst, Software Engineer"
-url                      : "https://zouboyun.github.io"
+url                      : "https://zarguru.github.io"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boyun Zou"
+  name             : "Guru Zar"
   avatar           : "/images/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Business Analyst, Software Engineer"
-  location         : "San Francisco Bay Area"
-  email            : "zouboyun@gmail.com"
+  bio              : "Software Engineer"
+  location         : "New York, NY"
+  email            : "zarguru@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,18 +114,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zouboyun"
+  github           : "zarguru"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "boyunzou"
+  linkedin         : "guruzar"
   # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  soundcloud       : "boyun-zou"
+  soundcloud       : "guru-zar"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "zouboyun"
+  steam            : "zarguru"
     # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
