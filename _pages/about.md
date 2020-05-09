@@ -5,12 +5,12 @@ permalink: /about/
 
 
 
-Hello, welcome to Boyun's portfolio website!
+Greetings, welcome to Guru's portfolio website!
 
-Boyun, also go by Alice, is an experienced business analyst in financial technology / consulting industry. She comes from Guangzhou, China, a beautiful south-east coastal city where one can have the best dim sum in the world. She went to Boston University for her Master's Degree and worked in New York for a year. In June 2018, she moved to the San Francisco Bay Area.
+Guru, also go by Kelvin, is an experienced Software Engineer. He comes from Jiangxi, China, known as a the "Birthplace of Taoism" and the "Porcelain Capital of China" and famous for its numerous historical and natural attractions. He went to a University of Texas for his PhD Degree and worked in New York for 4 years.
 
-In her spare time, she loves jogging, doing yoga, building legos, trying new restaurants with friends and watching Quentin Tarantino movies.
+In his spare time, he loves playing badminton, snowboarding, singing karaoke, trying new restaurants with friends and watching movies.
 
-She is now a full-time student at Hack Reactor, an advanced full stack Javascript coding bootcamp. She will be graduating in December, 2018 and will be actively looking for software engineer jobs. Leave her a message or connect her on LinkedIn if you see a good fit :)
+He is actively looking for software engineer jobs. Leave him a message or connect him on LinkedIn if you see a good fit :)
 
 Cheers!
